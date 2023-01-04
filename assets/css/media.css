@@ -1,0 +1,211 @@
+/*destop-leyout-*/
+@media only screen and (min-width: 1200px) and (max-width:1400px){
+    
+}
+/*laptop-leyout-*/
+@media only screen and (min-width: 992px) and (max-width:1200px){
+    .header-info ul li {        
+        padding-right: 20px;        
+    }
+    .main-menu ul li {        
+        margin-left: 30px;
+    }
+    
+    .section-title h2 {        
+        font-size: 45px;
+    }
+    .event-content h2 {        
+        margin-bottom: 15px;
+        font-size: 20px;
+    }
+    .event-content p {        
+        font-size: 15px;
+    }
+    .event-img-info h4 {
+        font-size: 18px;        
+    }
+    .back-text {        
+        font-size: 220px;        
+    }
+    .team-back-text h1 {
+        font-size: 220px;        
+    }
+    .upevent-back-text h1 {
+        font-size: 220px;        
+    }
+    .section-title h1 {        
+        font-size: 100px;       
+    }
+    
+
+}
+
+/*tablet layout768px*/
+@media only screen and (min-width: 768px) and (max-width:991px){
+    .f-btn {
+        margin-right: 70px;
+    }
+    .mean-container a.meanmenu-reveal {
+        top: -65px;
+        border: 2px solid#75757f;
+    }
+    .mean-container {
+        position: absolute;
+        right: 30px;
+        width: 90%;
+        top: 82px;
+    }
+    .hero-wrapper {        
+        position: relative;
+    }
+    .back-text {        
+        font-size: 200px;        
+    }
+    .header-top-area{
+        display: none;
+    }
+    .menu-box {        
+        border: none; 
+        
+    }
+    .testimonial-active .owl-dots {
+        margin-left: 130px;
+        margin-top: 0px;
+        
+    }
+    .team-back-text h1 {
+        font-size: 200px;        
+    }
+    .section-title h1 {        
+        font-size: 100px;        
+    }
+    .section-title h2 {       
+        font-size: 50px;
+    }
+    .accordion-button {        
+        font-size: 18px;        
+    }
+    .btn-border-d {        
+        padding: 15px 15px;       
+    }
+   
+    
+
+}
+/* mobile layout:320px*/
+@media only screen and (max-width:767px){
+    
+    .mean-container a.meanmenu-reveal {
+        top: -65px;
+        border: none;
+    }
+    .mean-container {
+        position: absolute;
+        right: 30px;
+        width: 90%;
+        top: 82px;
+    }
+    .hero-wrapper {        
+        position: relative;
+    }
+    .back-text {        
+        font-size: 200px;        
+    }
+    .header-top-area{
+        display: none;
+    }
+    .menu-box {        
+        border: none; 
+        
+    }
+    .f-btn{
+        display: none;
+    }
+    .testimonial-active .owl-dots {
+        margin-left: 130px;
+        margin-top: 0px;
+        margin-bottom: 50px;
+    }
+    .team-back-text h1 {
+        font-size: 130px;
+    }
+    .event-moment {
+        display: block;
+    }
+    .events-text{
+        margin-top: 10px;
+    }
+    .events-btn{
+        margin-top: 20px;
+    }
+    .hero-wrapper h2 {
+        font-size: 40px;
+    }
+    .back-text {
+        font-size: 100px;
+    }
+    .hero-slider-area {
+        min-height: 700px;
+    }
+    .section-title h2 {
+        letter-spacing: -3px;
+        font-size: 40px;
+    }
+    .section-title h1 {        
+        font-size: 100px;       
+    }
+    .event-header-back h1 {        
+        font-size: 100px;
+    }
+    .event-header h2 {
+        font-size: 36px;        
+    }
+    .event-btn .f-btn{
+        display: block;
+    }
+    .event-content-btn .f-btn {
+        display: block;
+        text-align: center;
+        width: 140px;
+    }
+    .team-header h3 {
+        font-size: 36px;
+        margin-bottom: 0px;
+    }
+    .join-us-area-header h2 {
+        color: #fff;
+        letter-spacing: -3px;
+        font-size: 36px;
+    }
+    .upevent-back-text h1 {
+        font-size: 120px;        
+    }
+    .upcoming-event-header h2 {
+        font-size: 40px;      
+   
+}
+.events-text h2 {
+    font-size: 24px;    
+}
+.fact {
+    padding: 30px 30px;
+}
+.counter_info span {
+    font-size: 50px;
+    color: #ffffff;
+}
+.footer-area{
+    padding-left: 20px;
+}
+.textimonial-content {    
+    padding: 20px;   
+}
+.copyright{
+    text-align: center;
+}
+.copy-right_useful_link {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+}
